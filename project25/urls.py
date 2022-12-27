@@ -23,3 +23,8 @@ urlpatterns = [
     path('insert_acessrecord/',insert_acessrecord,name='insert_acessrecord'),
     path('displaywebpage/',displaywebpage,name='displaywebpage'),
 ]
+
+
+admin.site.site_header='nagendra'
+admin.site.site_title='74de4'
+admin.site.index_title='hey'
